@@ -13,3 +13,7 @@ Join Us! Deathly Elite - Best RU server for chill and lounge.
 
 # My Web
 [![](https://img.shields.io/website?up_color=blue&up_message=Click&url=https%3A%2F%2Ficvrsedx.ml)](https://icvrsedx.ml)
+
+# My github stats
+
+[![Cursed Stats](https://github-readme-stats.vercel.app/api?username=socursedvgx)](https://github.com/socursedvgx)
