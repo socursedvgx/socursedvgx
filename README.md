@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="изображение_2022-03-14_112538.png" alt="Logo" width="80" height="80">
   </a>
 
 # Deathly Elite
