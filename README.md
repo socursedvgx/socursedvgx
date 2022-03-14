@@ -4,6 +4,7 @@
 <div align="center">
     <img src="изображение_2022-03-14_112538.png" alt="Logo" width="80" height="80">
   </a>
+  <h3 align="center">Cursed</h3>
 
 # Deathly Elite
 [![](https://img.shields.io/discord/664609892400758784?color=red&label=Deathly%20Elite)](https://discord.gg/7GEXWtTaqq)
